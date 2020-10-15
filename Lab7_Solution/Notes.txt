@@ -1,0 +1,4 @@
+https://stackoverflow.com/questions/23363222/how-to-set-placeholder-in-javafx
+https://www.geeksforgeeks.org/initialize-an-arraylist-in-java/
+
+Flow charts: Help guide essentially
